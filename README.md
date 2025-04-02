@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CyberZod
-- 👀 I’m interested in algo trading with Python
-- 🌱 I’m currently learning Rust
+- AI Agent Dev
 - ⚡ Fun fact: You are awesome for being here. Thank you
 
 <!---
